@@ -1,6 +1,6 @@
 # Add Members
 
-## You are able to add members
+### Go to the realm page that you want to add the members
 
 - Press the + button and will appear an input to insert the wallet id of the new member.
 
